@@ -1,0 +1,10 @@
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+conda-meta/
+venv/
+.nonadmin
+CREDIT CARD FRAUD DETECTION USING RANDOM FOREST ALGORITHM.pptm
+db.py
+detection.png
+creditcard.csv
