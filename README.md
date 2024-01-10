@@ -20,3 +20,14 @@ Supervised learning approach for detecting fraud <br>
 Confusion matrix for evaluating the model's accuracy <br>
 Automatic detection and flagging of potentially fraudulent transactions <br>
 Real-time monitoring of transactions for increased security and prevention of financial loss <br>
+
+
+## Snapshots :
+![image](https://github.com/khanaisahana/credit_card_fraud_detection/assets/67268473/63f88927-7a0d-45cb-bdb7-9a28742c6464)
+![image](https://github.com/khanaisahana/credit_card_fraud_detection/assets/67268473/295e8c7d-1206-4e01-b2eb-95927d526579)
+![image](https://github.com/khanaisahana/credit_card_fraud_detection/assets/67268473/81d9c3e9-59b3-414e-bf34-c3a43404902d)
+
+
+
+
+
